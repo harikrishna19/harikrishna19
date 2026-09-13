@@ -51,6 +51,6 @@ When I'm not working, you'll probably find me:
 
 ## 🌐 Find Me Online
 
-**Personal Website** 🔗 [Your ](YOUR_PERSONAL_SITE_URL)[Website](hari-krish.dev)
+🔗 [Personal Blog](hari-krish.dev)ß
 
-**GitHub** 🔗 [GitHub](https://github.com/harikrishna19/)
+🔗 [GitHub](https://github.com/harikrishna19/)
